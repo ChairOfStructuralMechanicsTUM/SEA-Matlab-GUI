@@ -2,8 +2,8 @@ function varargout = SEA_main(varargin)
 % #################Note of the authors###########################
 %
 % Created and validated by Dionysios Panagiotopoulos, Christian Robl and 
-% Khalid Malik under the supervision of Chistoph Winter during a software 
-% project in the study program "Comutational Mechanics (M.Sc.)" at the 
+% Khalid Malik under the supervision of Christoph Winter during a software 
+% project in the study program "Computational Mechanics (M.Sc.)" at the 
 % Chair of Structural Mechanics at Technical University of Munich.
 %
 % Last Version (March 2017) by Dionysios Panagiotopoulos. 
