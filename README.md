@@ -40,7 +40,7 @@ The connections are visualized after clicking on "Apply" and "Finish":
 
 ![](./screenshots/coupling_visualization.JPG) 
 
-Some solution option (like the consideration of non-resonant transmission or in-plane waves) can be chosen. Also a path analyses via which subsystems the energy flows from one subsystem to another not adjacent (directly coupled) subsystem. In this example none of the options are applied:
+Some solution options (like the consideration of non-resonant transmission or in-plane waves) can be chosen. Also a path analysis, which analyses the path via the energy flows from one subsystem to another not adjacent (directly coupled) subsystem. In this example none of the options are applied:
 
 ![](./screenshots/soultion_options.JPG) 
 
@@ -55,3 +55,5 @@ Clicking on "Solve" solves the linear system of SEA-equations and activates the 
 In the postprocessing section the results can be plotted over the frequency in a log-scale. Therefore, one has to select a quantity and the subsystems resp. couplings for which this quantity should be plotted. Multiple selection with Strg+click is possible in both columns.
 
 ![](./screenshots/plotting_resuts.JPG)
+
+The calculation results can be saved to a .mat-file and loaded later in order to use the postprocessing again.
