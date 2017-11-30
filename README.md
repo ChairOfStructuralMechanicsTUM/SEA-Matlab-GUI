@@ -40,7 +40,7 @@ The connections are visualized after clicking on "Apply" and "Finish":
 
 ![](./screenshots/coupling_visualization.JPG) 
 
-Some solution options (like the consideration of non-resonant transmission or in-plane waves) can be chosen. Also a path analysis, which analyses the path via the energy flows from one subsystem to another not adjacent (directly coupled) subsystem. In this example none of the options are applied:
+Some solution options (like the consideration of non-resonant transmission or in-plane waves) can be chosen. Also a path analysis has been made available. It ranks the energy flow pathes between two non adjacent subsystems. Therefore, a minimum path length can be defined. In this example none of the options are applied:
 
 ![](./screenshots/soultion_options.JPG) 
 
