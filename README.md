@@ -44,7 +44,7 @@ Some solution options (like the consideration of non-resonant transmission or in
 
 ![](./screenshots/soultion_options.JPG) 
 
-Last step in the preprocessing is the setting of the power input. We insert here a power of 10 Watt into the subsystem "Plate 1":
+Last step in the preprocessing is the setting of the power input. We insert here a power of 10 Watt per third-octave band into the subsystem "Plate 1":
 
 ![](./screenshots/power_input.JPG) 
 
